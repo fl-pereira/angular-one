@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook Lenovo E14",
+      "price": "4.599",
+      "qty": "143"
+    },
+    {
+      "id": 1,
+      "name": "Play Station 3",
+      "price": "1.299",
+      "qty": "5"
+    },
+    {
+      "id": 1,
+      "name": "Refrigerador Electrolux",
+      "price": "3.699",
+      "qty": "51"
+    },
+    {
+      "id": 1,
+      "name": "Perfume 212",
+      "price": "545",
+      "qty": "12"
+    },
+    {
+      "name": "Iphone 12 Pro Max 128gb",
+      "price": "4299.99",
+      "qty": "376",
+      "id": 4
+    },
+    {
+      "name": "Iphone 13 Pro Max 256gb",
+      "price": "5699.99",
+      "qty": "135",
+      "id": 5
+    }
+  ]
+}
