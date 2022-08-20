@@ -24,12 +24,12 @@ export class CreateComponent implements OnInit {
   createProduct(): void {
     this.productService.create(this.product).subscribe(() => {
       this.productService.showMessage('Success!')
-      this.router.navigate(['/products/crud'])
+      this.router.navigate(['/products'])
     })    
   }
 
   cancelProduct(): void {
-    this.router.navigate(['/products/crud'])
+    this.router.navigate(['/products'])
   }
 
 }
