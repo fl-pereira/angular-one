@@ -35,48 +35,6 @@
       "price": "5699.99",
       "qty": "135",
       "id": 5
-    },
-    {
-      "name": "test",
-      "price": 1,
-      "qty": 15,
-      "id": 6
-    },
-    {
-      "name": "test",
-      "price": 1,
-      "qty": 15,
-      "id": 7
-    },
-    {
-      "name": "test form",
-      "price": "15",
-      "qty": "152",
-      "id": 8
-    },
-    {
-      "name": "ps5 again",
-      "price": "156,25",
-      "qty": "150",
-      "id": 9
-    },
-    {
-      "name": "test",
-      "price": "155.20",
-      "qty": 15,
-      "id": 10
-    },
-    {
-      "name": "test",
-      "price": 1,
-      "qty": 15,
-      "id": 11
-    },
-    {
-      "name": "test aaaaaaaaaaaa",
-      "price": 1,
-      "qty": 15,
-      "id": 12
     }
   ]
 }
