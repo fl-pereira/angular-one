@@ -5,7 +5,8 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './views/home/home.component';
 import { CrudComponent } from './views/product/crud/crud.component';
 import { CreateComponent } from './components/products/create/create.component';
-import { UpdateComponent } from './components/products/update/update.component'
+import { UpdateComponent } from './components/products/update/update.component';
+import { DeleteComponent } from './components/products/delete/delete.component';
 
 const routes: Routes = [
   {
@@ -23,6 +24,10 @@ const routes: Routes = [
   {
     path: "products/update/:id",
     component: UpdateComponent
+  },
+  {
+    path: "products/delete/:id",
+    component: DeleteComponent
   }
 ];
 
